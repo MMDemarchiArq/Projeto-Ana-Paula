@@ -687,7 +687,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Projeto Residencial Ana Paula",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
